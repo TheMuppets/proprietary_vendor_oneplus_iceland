@@ -894,6 +894,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/iceland/proprietary/odm/etc/wifi/peach/regdb_version:$(TARGET_COPY_OUT_ODM)/etc/wifi/peach/regdb_version \
     vendor/oneplus/iceland/proprietary/odm/firmware/POGOPIN_KB.bin:$(TARGET_COPY_OUT_ODM)/firmware/POGOPIN_KB.bin \
     vendor/oneplus/iceland/proprietary/odm/firmware/fastchg/25927/charging_hyper_mode_config.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/25927/charging_hyper_mode_config.txt \
+    vendor/oneplus/iceland/proprietary/odm/firmware/fastchg/25927/charging_thermal_config_default.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/25927/charging_thermal_config_default.txt \
     vendor/oneplus/iceland/proprietary/odm/firmware/fastchg/25978/charging_hyper_mode_config.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/25978/charging_hyper_mode_config.txt \
     vendor/oneplus/iceland/proprietary/odm/firmware/fastchg/charging_thermal_config_default.txt:$(TARGET_COPY_OUT_ODM)/firmware/fastchg/charging_thermal_config_default.txt \
     vendor/oneplus/iceland/proprietary/odm/firmware/secure_ta/antdtx.b00:$(TARGET_COPY_OUT_ODM)/firmware/secure_ta/antdtx.b00 \
