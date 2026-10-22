@@ -1034,6 +1034,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/iceland/proprietary/odm/lib64/camera/libpdCustomParam_Cam3.bin:$(TARGET_COPY_OUT_ODM)/lib64/camera/libpdCustomParam_Cam3.bin \
     vendor/oneplus/iceland/proprietary/odm/lib64/camera/revision.txt:$(TARGET_COPY_OUT_ODM)/lib64/camera/revision.txt \
     vendor/oneplus/iceland/proprietary/odm/usr/idc/pogo_touchpad.idc:$(TARGET_COPY_OUT_ODM)/usr/idc/pogo_touchpad.idc \
+    vendor/oneplus/iceland/proprietary/odm/vendor/etc/wifi/WCNSS_qcom_cfg.ini:$(TARGET_COPY_OUT_ODM)/vendor/etc/wifi/WCNSS_qcom_cfg.ini \
     vendor/oneplus/iceland/proprietary/vendor/etc/acdbdata/canoe_mtp/acdb_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/canoe_mtp/acdb_cal.acdb \
     vendor/oneplus/iceland/proprietary/vendor/etc/init/vendor.qti.camera.provider-service_64.rc:$(TARGET_COPY_OUT_VENDOR)/etc/init/vendor.qti.camera.provider-service_64.rc \
     vendor/oneplus/iceland/proprietary/vendor/etc/media_codecs_dolby_vision.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_dolby_vision.xml \
